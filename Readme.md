@@ -17,14 +17,14 @@ User-friendly CLI with customizable scan options
 Ideal for bug bounty, CTFs, red teaming, and network audits
 
 🛠️ Installation
-git clone  
+git clone  https://github.com/dhruvprataptech/Nmap-Automation-tool.git
 cd nmap Automation tool  
 chmod +x nmap authmoutor.sh
 sudo./nmap_automator.sh
 
 🐧 Initial Setup Commands
 1️⃣ Clone this repository
-git clone 
+git clone  https://github.com/dhruvprataptech/Nmap-Automation-tool.git
 
 cd nmap automation tool
 
