@@ -29,6 +29,7 @@ sudo./nmap_automator.sh
 🐧 Initial Setup Commands
 
 1️⃣ Clone this repository
+
 git clone  https://github.com/dhruvprataptech/Nmap-Automation-tool.git
 
 cd nmap automation tool
