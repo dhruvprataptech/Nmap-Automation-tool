@@ -4,25 +4,30 @@ Nmap Automation  script build with Bash scripting to streamline network reconnai
 
 🚀 Features 
 
-Perform automated Nmap scans (TCP, UDP, OS detection, full port scans)
+  * Perform automated Nmap scans (TCP, UDP, OS detection, full port scans)
 
-Scan single targets or a list of IPs/domains
+ * Scan single targets or a list of IPs/domains
 
-Save scan results in .txt, .xml, and .nmap formats
+ * Save scan results in .txt, .xml, and .nmap formats
 
-Automatically create folders for each target to keep reports organized
+* Automatically create folders for each target to keep reports organized
 
-User-friendly CLI with customizable scan options
+* User-friendly CLI with customizable scan options
 
-Ideal for bug bounty, CTFs, red teaming, and network audits
+* Ideal for bug bounty, CTFs, red teaming, and network audits
 
 🛠️ Installation
+
 git clone  https://github.com/dhruvprataptech/Nmap-Automation-tool.git
+
 cd nmap Automation tool  
+
 chmod +x nmap authmoutor.sh
+
 sudo./nmap_automator.sh
 
 🐧 Initial Setup Commands
+
 1️⃣ Clone this repository
 git clone  https://github.com/dhruvprataptech/Nmap-Automation-tool.git
 
